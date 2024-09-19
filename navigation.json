@@ -1,0 +1,271 @@
+{
+	"recommends": [
+		{
+			"name": "白泽系统",
+			"description": "数据驱动的制造智能平台",
+			"img": "img/app1.png",
+			"url": "http://ksbaize.luxshare.com.cn/"
+		},
+		{
+			"name": "白矖系统",
+			"description": "自动化生产的数字化枢纽",
+			"img": "img/app2.png",
+			"url": "http://develop-smt.bu22mes.local/#/login"
+		},
+		{
+			"name": "BI系统",
+			"description": "智能数据可视化与分析",
+			"img": "img/app3.png",
+			"url": "http://10.32.44.112/#/login"
+		},
+		{
+			"name": "知识问答社区",
+			"description": "实时问题解答与知识分享",
+			"img": "img/app4.png",
+			"url": "http://10.32.44.126:9080/"
+		}
+	],
+	"navigations": [
+		{
+			"category": "白泽测试区",
+			"navs": [
+				{
+					"name": "锦溪白泽",
+					"description": "jexus",
+					"url": "http://10.32.44.33:8003/",
+					"tag": ""
+				},
+				{
+					"name": "巴城白泽",
+					"description": "jexus",
+					"url": "http://10.32.44.33:8001/",
+					"tag": ""
+				},
+				{
+					"name": "白泽纯净版",
+					"description": "(MySql)[jexus]",
+					"url": "http://10.32.44.33:8002/",
+					"tag": ""
+				},
+				{
+					"name": "APS",
+					"description": "jexus",
+					"url": "http://10.32.44.33:8082/",
+					"tag": ""
+				},
+				{
+					"name": "QMS",
+					"description": "nginx",
+					"url": "http://10.32.44.33:81/",
+					"tag": ""
+				},
+				{
+					"name": "高管平台",
+					"description": "nginx",
+					"url": "http://10.32.44.67/",
+					"tag": ""
+				},
+				{
+					"name": "Furion文档",
+					"description": "nginx",
+					"url": "http://10.32.44.33:7081/",
+					"tag": ""
+				},
+				{
+					"name": "测试BI",
+					"description": "",
+					"url": "http://10.32.44.33:8201/#/login",
+					"tag": "test"
+				}
+			]
+		},
+		{
+			"category": "白泽正式区",
+			"navs": [
+				{
+					"name": "锦溪白泽",
+					"description": "",
+					"url": "http://ksbaize.luxshare.com.cn/",
+					"tag": ""
+				},
+				{
+					"name": "巴城白泽",
+					"description": "",
+					"url": "http://10.191.19.71/",
+					"tag": ""
+				},
+				{
+					"name": "淀山湖白泽",
+					"description": "",
+					"url": "http://10.57.12.12:8080/",
+					"tag": ""
+				},
+				{
+					"name": "越南白泽",
+					"description": "",
+					"url": "http://10.171.11.120/",
+					"tag": ""
+				},
+				{
+					"name": "QMS",
+					"description": "",
+					"url": "http://10.32.44.219/login",
+					"tag": ""
+				},
+				{
+					"name": "EMS",
+					"description": "",
+					"url": "http://10.32.44.35/login",
+					"tag": ""
+				},
+				{
+					"name": "SIP OEE",
+					"description": "",
+					"url": "http://10.32.44.104:8070/",
+					"tag": ""
+				},
+				{
+					"name": "实验室OEE",
+					"description": "",
+					"url": "http://10.32.44.104/",
+					"tag": ""
+				},
+				{
+					"name": "ReportBI",
+					"description": "",
+					"url": "http://10.32.44.112/#/login",
+					"tag": "new"
+				}
+			]
+		},
+		{
+			"category": "周边系统",
+			"navs": [
+				{
+					"name": "越南文件上传",
+					"description": "",
+					"url": "http://10.171.11.162/",
+					"tag": ""
+				},
+				{
+					"name": "巴城文件上传",
+					"description": "",
+					"url": "http://10.191.19.156/",
+					"tag": ""
+				},
+				{
+					"name": "淀山湖文件上传",
+					"description": "",
+					"url": "http://10.58.2.86/",
+					"tag": ""
+				},
+				{
+					"name": "淀山湖文件上传",
+					"description": "锦溪可访问",
+					"url": "http://10.57.12.30:93/login",
+					"tag": ""
+				},
+				{
+					"name": "锦溪文件上传",
+					"description": "",
+					"url": "http://10.32.36.41/",
+					"tag": ""
+				},
+				{
+					"name": "文件上传系统-官网/文档",
+					"description": "",
+					"url": "http://10.32.44.33:7082/",
+					"tag": ""
+				},
+				{
+					"name": "Smart AI",
+					"description": "",
+					"url": "http://10.32.44.157/",
+					"tag": "new"
+				},
+				{
+					"name": "ITRMS",
+					"description": "",
+					"url": "http://10.32.36.146/",
+					"tag": "new"
+				},
+				{
+					"name": "BU22知识问答社区",
+					"description": "",
+					"url": "http://10.32.44.126:9080/",
+					"tag": "new"
+				},
+				{
+					"name": "ESD",
+					"description": "",
+					"url": "http://10.32.36.38/login",
+					"tag": "new"
+				},
+				{
+					"name": "ESD测试库",
+					"description": "",
+					"url": "http://10.32.36.56/login",
+					"tag": "test"
+				},
+				{
+					"name": "周报分析",
+					"description": "",
+					"url": "http://10.32.44.33:9099/",
+					"tag": "new"
+				}
+			]
+		},
+		{
+			"category": "大数据开发",
+			"navs": [
+				{
+					"name": "测试/本地调试Nacos",
+					"description": "",
+					"url": "http://10.32.36.57:8848/nacos/",
+					"tag": ""
+				},
+				{
+					"name": "汉得测试环境",
+					"description": "",
+					"url": "http://10.41.5.11/",
+					"tag": ""
+				},
+				{
+					"name": "rocket-mq-dashboard",
+					"description": "",
+					"url": "http://10.32.36.57:49875/",
+					"tag": ""
+				},
+				{
+					"name": "越南BI",
+					"description": "商业分析工具",
+					"url": "http://10.171.13.144/#/login",
+					"tag": ""
+				},
+				{
+					"name": "锦溪BI",
+					"description": "商业分析工具",
+					"url": "http://10.32.44.112/#/login",
+					"tag": ""
+				}
+			]
+		},
+		{
+			"category": "资源工具区",
+			"navs": [
+				{
+					"name": "DEV资源",
+					"description": "IIS",
+					"url": "http://10.32.44.80:8006/",
+					"tag": ""
+				},
+				{
+					"name": "内网测速",
+					"description": "",
+					"url": "http://10.57.7.32/speedtest/",
+					"tag": ""
+				}
+			]
+		}
+	]
+}
